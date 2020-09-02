@@ -25,7 +25,6 @@ media
 *.so
 
 # Distribution / packaging
-.gitignore
 .idea/
 .Python
 build/
